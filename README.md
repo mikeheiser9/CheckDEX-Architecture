@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
-<img src="./public/check-dex-logo.png" alt="Project Logo" width="100" />
+<img src="./public/check-dex-logo.png" alt="Project Logo" width="200" />
 
 # CheckDEX
 
